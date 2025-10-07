@@ -13,3 +13,8 @@ Done the following operations in the repo
     11.used "git diff" command to check the difference between "main" and "branch2"
     12.used "git merge" command to merge the files from branch2 and main
     13.used "git push origin" to push to main branch
+    14.created another branch "branch3" 
+    15.Created another file named "factorial.txt"
+        ->pushed that to branch3
+        ->created a pull request 
+        ->merged into main branch
