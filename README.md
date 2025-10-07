@@ -7,3 +7,9 @@ Done the following operations in the repo
     6.Executed git branch command to check the current working branch name(master->default branch name)
     7.changed the branch name to main using 
         "git branch -M main"
+    8.created new branch called "branch2"
+    9.switched to "branch2" from "main" using "git checkout" command
+    10.created new file in "branch2"
+    11.used "git diff" command to check the difference between "main" and "branch2"
+    12.used "git merge" command to merge the files from branch2 and main
+    13.used "git push origin" to push to main branch
