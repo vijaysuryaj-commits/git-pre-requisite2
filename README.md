@@ -18,3 +18,11 @@ Done the following operations in the repo
         ->pushed that to branch3
         ->created a pull request 
         ->merged into main branch
+    16.created file named "Merge_Conflict.txt"
+    17.Created two more branches as "merge_conflict1" and "merge_conflict2"
+    18.changed the contents in "Merge_Conflict.txt" in "merge_conflict1" branch
+    19.Again changed the contents of "Merge_Conflict.txt" in "merge_conflict2" branch
+    20.Created pull request from "merge_conflict1" branch
+    21.Accepted the pull request in main branch
+    22.Again created another pull request from "merge_conflict2" branch
+    23.Mannually resolved the merge conflict that arised by accepting current change(from branch "merge_conflict2")
